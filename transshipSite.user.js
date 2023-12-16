@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Display transship site next to "TRANSSHIPMENT"
+// @updateURL    https://github.com/Knullack/transhipCode/raw/main/transshipSite.user.js
+// @downloadURL  https://github.com/Knullack/transhipCode/raw/main/transshipSite.user.js
 // @author       nuneadon
 // @match        https://fcresearch-na.aka.amazon.com/HDC3/results?s=*
 // @run-at       document-end
