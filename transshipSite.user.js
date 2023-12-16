@@ -5,6 +5,7 @@
 // @description  Display transship site next to "TRANSSHIPMENT"
 // @author       nuneadon
 // @match        https://fcresearch-na.aka.amazon.com/HDC3/results?s=*
+// @run-at       document-end
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
