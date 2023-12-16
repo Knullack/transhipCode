@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Display transship site next to "TRANSSHIPMENT"
-// @author       Nunez, Adonis (nuneadon)
+// @author       nuneadon
 // @match        https://fcresearch-na.aka.amazon.com/HDC3/results?s=*
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
