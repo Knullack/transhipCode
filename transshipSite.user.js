@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Show Transshipment Code
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Display transship site next to "TRANSSHIPMENT"
 // @author       nuneadon
 // @match        https://fcresearch-na.aka.amazon.com/HDC3/results?s=*
